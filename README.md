@@ -18,4 +18,5 @@ lesson 3: Structuring Machine Learning Projects
 lesson 4: Convolutional Neural Networks
 ------
 
- 
+lesson 5: Natural Language Processing: Building Sequence Models 
+------ 
