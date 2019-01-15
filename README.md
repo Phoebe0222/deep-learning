@@ -20,3 +20,6 @@ lesson 4: Convolutional Neural Networks
 
 lesson 5: Natural Language Processing: Building Sequence Models 
 ------ 
+
+
+Note that these notes only include materials from lectures. 
