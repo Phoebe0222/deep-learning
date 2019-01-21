@@ -4,6 +4,21 @@ This includes my notes for studying deep learning course from deeplearning.ai an
 
 lesson 1: Neural Network and Deep Learning
 ------
+
+The general methodology to build a Neural Network is to:
+
+1. Define the neural network structure:
+	- how many input/output units
+ 	- whether shallow or deep NN (i.e. # of hidden units)
+ 	- which activation functions to use
+2. Initialize the model's parameters
+3. Loop:
+    - Implement forward propagation
+    - Compute loss
+    - Implement backward propagation to get the gradients
+    - Update parameters using gradient descent
+    
+The following lessons notes will cover how I learn these steps:     
 - 1.1 Introduction to deep learning
 - 1.2 Neural networks basics (notes on Vectorization)
 - 1.3 Shallow neural networks
