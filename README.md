@@ -10,7 +10,7 @@ The general methodology to build a Neural Network is to:
 1. Define the neural network structure:
 	- how many input/output units
  	- whether shallow or deep NN (i.e. # of hidden units)
- 	- which activation functions to use
+ 	- which activation functions, learning rates etc. to use
 2. Initialize the model's parameters
 3. Loop:
     - Implement forward propagation
@@ -19,10 +19,10 @@ The general methodology to build a Neural Network is to:
     - Update parameters using gradient descent
     
 The following lessons notes will cover how I learn these steps:     
-- 1.1 Introduction to deep learning
-- 1.2 Neural networks basics (notes on Vectorization)
-- 1.3 Shallow neural networks
-- 1.4 Deep neural networks 
+- 1.1 [Introduction to deep learning](https://github.com/Phoebe0222/deep-learning/blob/master/lesson1/Lesson1-1-Intro-to-Neural-Network.pdf)
+- 1.2 [Neural networks basics](https://github.com/Phoebe0222/deep-learning/blob/master/lesson1/Lesson1-2-neural-network-basics.pdf) ([notes on Vectorization](https://colab.research.google.com/github/Phoebe0222/deep-learning/blob/master/lesson1/vectorization_and_Broadcasting.ipynb))
+- 1.3 [Shallow neural networks](https://github.com/Phoebe0222/deep-learning/blob/master/lesson1/Lesson1-3-shallow-neural-network.pdf)
+- 1.4 [Deep neural networks](https://github.com/Phoebe0222/deep-learning/blob/master/lesson1/Lesson1-4-deep-neural-network.pdf) 
 	
 lesson 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 ------
