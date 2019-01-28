@@ -26,16 +26,23 @@ The following lessons notes will cover how I learn these steps:
 	
 lesson 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 ------
+We have covered the theoractical part of NN, but there are more practical concerns and ways to improve it when implementing it. The following lessons include methods of how to improve NNs:  
+-  2.1 [Practical aspects of Deep Learning](https://github.com/Phoebe0222/deep-learning/blob/master/lesson2/Lesson2-1-practical-aspects-of-deep-learning.pdf)
+-  2.2 Optimization Algorithms
+-  2.3 Hyperparameter tuning, Batch Normalization and Programming Frameworks 
+
 
 lesson 3: Structuring Machine Learning Projects
 ------
 
+
 lesson 4: Convolutional Neural Networks
 ------
+
 
 lesson 5: Natural Language Processing: Building Sequence Models 
 ------ 
 
 
-Note that these notes only include materials from lectures. 
+Note that these notes exclude all materials from assignments. 
  
