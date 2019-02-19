@@ -31,9 +31,9 @@ lesson 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization 
 We have covered the theoractical part of NN, but there are more practical concerns and ways to improve it when implementing it. The following lessons include methods of how to improve NNs:  
 -  2.1 [Practical aspects of Deep Learning](https://github.com/Phoebe0222/deep-learning/blob/master/lesson2/Lesson2-1-practical-aspects-of-deep-learning.pdf)
 -  2.2 [Optimization Algorithms](https://github.com/Phoebe0222/deep-learning/blob/master/lesson2/Lesson2-2-optimisation-algorithms.pdf)
--  2.3 [Hyperparameter tuning, Batch Normalization and Programming Frameworks] (https://github.com/Phoebe0222/deep-learning/blob/master/lesson2/Lesson2-3-hyperparameters-tuning-batch-normalisation-and-programming-frameworks.pdf) 
+-  2.3 [Hyperparameter tuning, Batch Normalization and Programming Frameworks](https://github.com/Phoebe0222/deep-learning/blob/master/lesson2/Lesson2-3-hyperparameters-tuning-batch-normalisation-and-programming-frameworks.pdf) 
 
-	([notes on Tensorflow])(https://github.com/Phoebe0222/deep-learning/blob/master/lesson2/Tensorflow.ipynb)
+	([notes on Tensorflow](https://github.com/Phoebe0222/deep-learning/blob/master/lesson2/Tensorflow.ipynb))
 
 
 lesson 3: Structuring Machine Learning Projects
