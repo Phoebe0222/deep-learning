@@ -38,7 +38,9 @@ We have covered the theoractical part of NN, but there are more practical concer
 
 lesson 3: Structuring Machine Learning Projects
 ------
+Here are some strategies that we could apply to out machine learning projects to improve performance and fasten the process. 
 
+- [machine learning strategies](https://github.com/Phoebe0222/deep-learning/blob/master/lesson3/Lesson3-structuring-machine-learning-projects.pdf)
 
 lesson 4: Convolutional Neural Networks
 ------
