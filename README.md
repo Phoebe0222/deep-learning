@@ -44,7 +44,11 @@ Here are some strategies that we could apply to out machine learning projects to
 
 lesson 4: Convolutional Neural Networks
 ------
-
+In the earlier lesson of neural network for image recognition, we have used images with 64 by 64 pixel, which are actually very small images, but sometimes we want to process hige resolution pictures like 1000 by 1000 pixel. One of the challenges it presents is that the input could be very large. For example, for a 1000 by 1000 pixel image, if we flatten it, it would be a 3 million dimensional matrix. And this means that there are many parameters, which would be difficult to get enough data to prevent a neural network from overfitting. Therefore, we need convolutional neural network to do that.   
+- 4.1 Foundations of Convolutional Neural Networks 
+- 4.2 Deep Convolutional Models: case studies
+- 4.3 Object Detection 
+- 4.4 Special Applications: Face Recognition & Neural Style Transfer
 
 lesson 5: Natural Language Processing: Building Sequence Models 
 ------ 
